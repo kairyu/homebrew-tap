@@ -2,8 +2,7 @@ cask "annotate" do
   version "0.2.0"
   sha256 "edb26c3d7bd976ec3f4395b39978bc6de18508182da822268b00bfe560bdb586"
 
-  url "https://github.com/kairyu/annotate/releases/download/v#{version}/Annotate-v#{version}.zip",
-      verified: "github.com/kairyu/annotate/"
+  url "https://github.com/kairyu/annotate/releases/download/v#{version}/Annotate-v#{version}.zip"
   name "Annotate"
   desc "Lets an AI agent draw hand-drawn annotations on your screen"
   homepage "https://github.com/kairyu/annotate"

@@ -2,8 +2,7 @@ cask "anyway-connect" do
   version "1.0.1"
   sha256 "da77214024d1805248483142c919adf7e868fd7183a9831e02d79c62c7b23fd3"
 
-  url "https://github.com/kairyu/anyway-connect/releases/download/v#{version}/AnywayConnect-v#{version}.zip",
-      verified: "github.com/kairyu/anyway-connect/"
+  url "https://github.com/kairyu/anyway-connect/releases/download/v#{version}/AnywayConnect-v#{version}.zip"
   name "AnywayConnect"
   desc "Menu bar client for OpenConnect-compatible SSL VPNs"
   homepage "https://github.com/kairyu/anyway-connect"
