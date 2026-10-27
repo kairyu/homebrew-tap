@@ -1,6 +1,6 @@
 cask "anyway-connect" do
-  version "1.0.0"
-  sha256 "e7c069d3d9d4136f496a791abc61156df0354c7f38df26f6c141a0b9ccd1f236"
+  version "1.0.1"
+  sha256 "da77214024d1805248483142c919adf7e868fd7183a9831e02d79c62c7b23fd3"
 
   url "https://github.com/kairyu/anyway-connect/releases/download/v#{version}/AnywayConnect-v#{version}.zip",
       verified: "github.com/kairyu/anyway-connect/"
